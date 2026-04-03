@@ -1,1 +1,13 @@
-lets go
+# Getting Started with Gemma 4 Analysis Lab
+
+Welcome! This lab focuses on benchmarking Gemma 4's Thinking vs Fast Reasoning modes.
+
+## Quick Start
+1. Install dependencies: `pip install -r requirements.txt`
+2. Open and run the notebook: `jupyter notebook thinking_vs_fast_benchmark.ipynb`
+
+## Project Overview
+- Compare Thinking and Standard modes on logic puzzles and code debugging.
+- Visualize reasoning differences and self-corrections.
+
+For more details, see README.md.
